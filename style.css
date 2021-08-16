@@ -1,0 +1,29 @@
+h1 {
+    color: blue; text-align: center;
+}
+
+div {
+    background-color: aqua;
+    height: 10rem;
+    width: 5rem;
+    margin: 10px; 
+    /* distancia del margen de la pagina */
+    padding: 10px;
+    /*  distancia del margen dentro del div  */
+    border: 3px double blueviolet;
+}
+/* . to create a class */
+.container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-style: oblique;
+}
+/* # to create a ID */
+#top{
+    top: 0em;
+}
+
+
+input, button {
+    border: 50px solid forestgreen;
+}
